@@ -1,0 +1,2 @@
+# CHE305-Computational-Chemistry-Integrated-Lab-Portfolio-
+Complete input files for computational study of acetanilide: (1) Gaussian 16 quantum mechanical calculations (geometry optimization at RHF and B3LYP levels with 6-31G(d) and cc-pVTZ basis sets; single-point population analysis); (2) GROMACS classical molecular dynamics simulation. Repository includes .com, .mdp parameter and topology files 
